@@ -1,0 +1,55 @@
+body{
+    background-color: #000000;
+    color: #ffffff;
+    margin: 0;
+
+}
+#logo{
+    padding:6px;
+}
+input[type="text"]{
+    padding:10px;
+    font-size: 15px;
+    border: 2px solid rgb(201, 201, 47);
+    font-family: "Montserrat", sans-serif;
+
+}
+#submit-button{
+    background-color: transparent;
+    color: yellow;
+    border-color: yellow;
+    padding: 10px;
+    margin: 5px;
+    font-size: 15px;
+}
+#second-div{
+    margin: 5px;
+    padding: 10px;
+
+}
+#your-title{
+    font-family: "Lora", sans-serif;
+    font-size:30px;
+
+}
+#your-text{
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+}
+#edit-button{
+    background-color: transparent;
+    color: #ffffff;
+    border-color: green;
+    padding: 5px;
+    margin: 5px;
+    font-size: 13px;
+}
+#delete-button{
+    background-color: transparent;
+    color: #ffffff;
+    border-color: red;
+    padding:5px;
+    margin: 5px;
+    font-size: 13px;
+
+}
